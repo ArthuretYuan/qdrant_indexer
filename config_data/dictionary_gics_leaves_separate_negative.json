@@ -1,0 +1,1143 @@
+[
+    {
+        "code": "10101010",
+        "label": "Oil & Gas Drilling",
+        "definition": "Drilling contractors or owners of drilling rigs that contract their services for drilling wells.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10101020",
+        "label": "Oil & Gas Equipment & Services",
+        "definition": "Manufacturers of equipment, including drilling rigs and equipment, and providers of supplies and services to companies involved in the drilling, evaluation and completion of oil and gas wells.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10102010",
+        "label": "Integrated Oil & Gas",
+        "definition": "Integrated oil companies engaged in the exploration & production of oil and gas, as well as at least one other significant activity in either refining, marketing and transportation, or chemicals.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10102020",
+        "label": "Oil & Gas Exploration & Production",
+        "definition": "Companies engaged in the exploration and production of oil and gas not classified elsewhere.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10102030",
+        "label": "Oil & Gas Refining & Marketing",
+        "definition": "Companies engaged in the refining and marketing of oil, gas and/or refined products not classified in the Integrated Oil & Gas or Independent Power Producers & Energy Traders Sub-Industries.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10102040",
+        "label": "Oil & Gas Storage & Transportation",
+        "definition": "Companies engaged in the storage and/or transportation of oil, gas and/or refined products. Includes diversified midstream natural gas companies, oil and refined product pipelines, coal slurry pipelines and oil & gas shipping companies.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "10102050",
+        "label": "Coal & Consumable Fuels",
+        "definition": "Companies primarily involved in the production and mining of coal, related products and other consumable fuels related to the generation of energy.",
+        "negative": "Excludes companies primarily producing gases classified in the Industrial Gases Sub-Industry and companies primarily mining for metallurgical coking coal used for steel production.",
+        "negative_refine": "gases, metallurgical coking, steel production."
+    },
+    {
+        "code": "15101010",
+        "label": "Commodity Chemicals",
+        "definition": "Companies that primarily produce industrial chemicals and basic chemicals. Including but not limited to plastics, synthetic fibers, films, commodity-based paints & pigments, explosives and petrochemicals.",
+        "negative": "Excludes chemical companies classified in the Diversified Chemicals, Fertilizers & Agricultural Chemicals, Industrial Gases, or Specialty Chemicals Sub-Industries.",
+        "negative_refine": "Fertilizers, agricultural products and industrial gases."
+    },
+    {
+        "code": "15101020",
+        "label": "Diversified Chemicals",
+        "definition": "Manufacturers of a diversified range of chemical products not classified in the Industrial Gases, Commodity Chemicals, Specialty Chemicals or Fertilizers & Agricultural Chemicals Sub-Industries.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15101030",
+        "label": "Fertilizers & Agricultural Chemicals",
+        "definition": "Producers of fertilizers, pesticides, potash or other agriculture-related chemicals not classified elsewhere.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15101040",
+        "label": "Industrial Gases",
+        "definition": "Manufacturers of industrial gases.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15101050",
+        "label": "Specialty Chemicals",
+        "definition": "Companies that primarily produce high value-added chemicals used in the manufacture of a wide variety of products, including but not limited to fine chemicals, additives, advanced polymers, adhesives, sealants and specialty paints, pigments and coatings.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15102010",
+        "label": "Construction Materials",
+        "definition": "Manufacturers of construction materials including sand, clay, gypsum, lime, aggregates, cement, concrete and bricks. Other finished or semi-finished building materials are classified  in the Building Products Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15103010",
+        "label": "Metal, Glass & Plastic Containers ",
+        "definition": "Manufacturers of metal, glass or plastic containers. Includes corks and caps.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15103020",
+        "label": "Paper & Plastic Packaging Products & Materials",
+        "definition": "Manufacturers of paper and cardboard containers and packaging.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15104010",
+        "label": "Aluminum",
+        "definition": "Producers of aluminum and related products, including companies that mine or process bauxite and companies that recycle aluminum to produce finished or semi-finished products.",
+        "negative": "Excludes companies that primarily produce aluminum building materials classified in the Building Products Sub-Industry.",
+        "negative_refine": "Building materials and building products."
+    },
+    {
+        "code": "15104020",
+        "label": "Diversified Metals & Mining",
+        "definition": "Companies engaged in the diversified production or extraction of metals and minerals not classified elsewhere. Including, but not limited to, nonferrous metal mining, salt and borate mining, phosphate rock mining, and diversified mining operations.",
+        "negative": "Excludes iron ore mining, bauxite mining, and coal mining.",
+        "negative_refine": "Iron ore, bauxite, and coal."
+    },
+    {
+        "code": "15104025",
+        "label": "Copper",
+        "definition": "Companies involved primarily in copper ore mining.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15104030",
+        "label": "Gold",
+        "definition": "Producers of gold and related products, including companies that mine or process gold and the South African finance houses which primarily invest in, but do not operate, gold mines.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15104040",
+        "label": "Precious Metals & Minerals",
+        "definition": "Companies mining precious metals and minerals not classified in the Gold Sub-Industry. Includes companies primarily mining platinum.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15104045",
+        "label": "Silver",
+        "definition": "Companies primarily mining silver.",
+        "negative": "Excludes companies classified in the Gold or Precious Metals & Minerals Sub-Industries.",
+        "negative_refine": "Gold, precious metals, and minerals"
+    },
+    {
+        "code": "15104050",
+        "label": "Steel",
+        "definition": "Producers of iron and steel and related products, including metallurgical (coking) coal mining used for steel production.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15105010",
+        "label": "Forest Products",
+        "definition": "Manufacturers of timber and related wood products. Includes lumber for the building industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "15105020",
+        "label": "Paper Products",
+        "definition": "Manufacturers of all grades of paper.",
+        "negative": "Excludes companies specializing in paper packaging classified in the Paper & Plastic Packaging Products & Materials Sub-Industry.",
+        "negative_refine": "Packaging and plastic packaging."
+    },
+    {
+        "code": "20101010",
+        "label": "Aerospace & Defense",
+        "definition": "Manufacturers of civil or military aerospace and defense equipment, parts or products. Includes defense electronics and space equipment.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20102010",
+        "label": "Building Products",
+        "definition": "Manufacturers of building components and home improvement products and equipment.",
+        "negative": "Excludes lumber and plywood classified under Forest Products and cement and other materials classified in the Construction Materials Sub-Industry.",
+        "negative_refine": "Lumber, plywood, forest products, cement and construction materials."
+    },
+    {
+        "code": "20103010",
+        "label": "Construction & Engineering",
+        "definition": "Companies engaged in primarily non-residential construction. Includes civil engineering companies and large-scale contractors.",
+        "negative": "Excludes companies in residential construction, and companies classified in the Homebuilding Sub-Industry.",
+        "negative_refine": "Residential and home building (homebuilding)."
+    },
+    {
+        "code": "20104010",
+        "label": "Electrical Components & Equipment",
+        "definition": "Companies that produce electric cables and wires, electrical components or equipment not classified in the Heavy Electrical Equipment Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20104020",
+        "label": "Heavy Electrical Equipment",
+        "definition": "Manufacturers of power-generating equipment and other heavy electrical equipment, including power turbines, heavy electrical machinery intended for fixed-use and large electrical systems.",
+        "negative": "Excludes cables and wires, classified in the Electrical Components & Equipment Sub-Industry.",
+        "negative_refine": "Cables and wires."
+    },
+    {
+        "code": "20105010",
+        "label": "Industrial Conglomerates",
+        "definition": "Diversified industrial companies with business activities in three or more sectors, none of which contributes a majority of revenues. Stakes held are predominantly of a controlling nature and stake holders maintain an operational interest in the running of the subsidiaries.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20106010",
+        "label": "Construction Machinery & Heavy Transportation Equipment",
+        "definition": "Manufacturers of heavy duty trucks, rolling machinery, earth-moving and construction equipment, and manufacturers of related parts. Includes non-military shipbuilding.",
+        "negative": "Manufactures of military equipment like military shipbuilding.",
+        "negative_refine": "Military usage."
+    },
+    {
+        "code": "20106015",
+        "label": "Agricultural & Farm Machinery",
+        "definition": "Companies manufacturing agricultural machinery, farm machinery, and their related parts. Includes machinery used for the production of crops and agricultural livestock, agricultural tractors, planting and fertilizing machinery, fertilizer and chemical application equipment, and grain dryers and blowers.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20106020",
+        "label": "Industrial Machinery & Supplies & Components",
+        "definition": "Manufacturers of industrial machinery and industrial components. Includes companies that manufacture presses, machine tools, compressors, pollution control equipment, elevators, escalators, insulators, pumps, roller bearings and other metal fabrications.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20107010",
+        "label": "Trading Companies & Distributors",
+        "definition": "Trading companies and other distributors of industrial equipment and products.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20201010",
+        "label": "Commercial Printing",
+        "definition": "Companies providing commercial printing services. Includes printers primarily serving the media industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20201050",
+        "label": "Environmental & Facilities Services",
+        "definition": "Companies providing environmental and facilities maintenance services. Includes waste management, facilities management and pollution control services.",
+        "negative": "Excludes large-scale water treatment systems classified in the Water Utilities Sub-Industry.",
+        "negative_refine": "Large-scale water treatment and water utilities."
+    },
+    {
+        "code": "20201060",
+        "label": "Office Services & Supplies",
+        "definition": "Providers of office services and manufacturers of office supplies and equipment not classified elsewhere.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20201070",
+        "label": "Diversified Support Services",
+        "definition": "Companies primarily providing labor oriented support services to businesses and governments.  Includes commercial cleaning services, dining & catering services, equipment repair services, industrial maintenance services, industrial auctioneers, storage & warehousing, transaction services, uniform rental services, and other business support services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20201080",
+        "label": "Security & Alarm Services",
+        "definition": "Companies providing security and protection services to business and governments. Includes companies providing services such as correctional facilities, security & alarm services, armored transportation & guarding.",
+        "negative": "Excludes companies providing security software, home security services, companies manufacturing security system equipment.",
+        "negative_refine": "Software, home, presonal, and manufacturing equipment."
+    },
+    {
+        "code": "20202010",
+        "label": "Human Resource & Employment Services (Definition Update)",
+        "definition": "Companies providing business support services relating to human capital management. This Sub-Industry includes employment agencies, employee training, payroll processing, benefit & retirement support services, corporate & job seeker recruitment services, and online job portals generating revenue from fees or commissions for offering recruitment services to companies or job seekers.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20202020",
+        "label": "Research & Consulting Services",
+        "definition": "Companies primarily providing research and consulting services to businesses and governments not classified elsewhere.  Includes companies involved in management consulting services, architectural design, business information or scientific research, marketing, and testing & certification services.",
+        "negative": "Excludes companies providing information technology consulting (IT Consulting) services.",
+        "negative_refine": "Information technology."
+    },
+    {
+        "code": "20202030",
+        "label": "Data Processing & Outsourced Services (Sector Change, New Code & Definition Update)",
+        "definition": "Providers of commercial data processing and/or business process outsourcing services. This Sub-Industry includes companies providing services for customer experience management, back-office automation, call center management, and investor communications.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20301010",
+        "label": "Air Freight & Logistics",
+        "definition": "Companies providing air freight transportation, courier and logistics services, including package and mail delivery and customs agents.",
+        "negative": "Excludes those companies classified in the Passenger Airlines, Marine Transportation, Cargo Ground Transportation and Passenger Ground Transportation Sub-Industries.",
+        "negative_refine": "Passenger, marine, cargo ground and passenger ground."
+    },
+    {
+        "code": "20302010",
+        "label": "Passenger Airlines",
+        "definition": "Companies providing primarily passenger air transportation.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20303010",
+        "label": "Marine Transportation",
+        "definition": "Companies providing goods or passenger maritime transportation.",
+        "negative": "Excludes cruise-ships classified in the Hotels, Resorts & Cruise Lines Sub-Industry.",
+        "negative_refine": "Cruise-ships, cruise lines."
+    },
+    {
+        "code": "20304010",
+        "label": "Rail Transportation",
+        "definition": "Companies providing primarily goods and passenger rail  transportation.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20304030",
+        "label": "Cargo Ground Transportation",
+        "definition": "Companies providing ground transportation services for goods and freight.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20304040",
+        "label": "Passenger Ground Transportation",
+        "definition": "Companies providing passenger ground transportation and related services, including bus, taxi, vehicle rental, ride sharing and on-demand ride sharing platforms, and other passenger logistics.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20305010",
+        "label": "Airport Services",
+        "definition": "Operators of airports and companies providing related services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20305020",
+        "label": "Highways & Railtracks",
+        "definition": "Owners and operators of roads, tunnels and railtracks.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "20305030",
+        "label": "Marine Ports & Services",
+        "definition": "Owners and operators of marine ports and related services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25101010",
+        "label": "Automotive Parts & Equipment",
+        "definition": "Manufacturers of parts and accessories for  automobiles and motorcycles.",
+        "negative": "Excludes companies classified in the Tires & Rubber Sub-Industry.",
+        "negative_refine": "Tires and rubber."
+    },
+    {
+        "code": "25101020",
+        "label": "Tires & Rubber",
+        "definition": "Manufacturers of tires and rubber.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25102010",
+        "label": "Automobile Manufacturers",
+        "definition": "Companies that produce mainly passenger automobiles and light trucks.",
+        "negative": "Excludes companies producing mainly motorcycles and three-wheelers classified in the Motorcycle Manufacturers Sub-Industry and heavy duty trucks classified in the Construction Machinery & Heavy Transportation Equipment Sub-Industry.",
+        "negative_refine": "Motorcycles and three-wheelers, heavy duty trucks, construction machinery, heavy equipment."
+    },
+    {
+        "code": "25102020",
+        "label": "Motorcycle Manufacturers",
+        "definition": "Companies that produce motorcycles, scooters or three-wheelers.",
+        "negative": "Excludes bicycles classified in the Leisure Products Sub-Industry.",
+        "negative_refine": "Bicycles."
+    },
+    {
+        "code": "25201010",
+        "label": "Consumer Electronics",
+        "definition": "Manufacturers of consumer electronics products including TVs, home audio equipment, game consoles, digital cameras, and related products.",
+        "negative": "Excludes personal home computer manufacturers classified in the Technology Hardware, Storage & Peripherals Sub-Industry, and electric household appliances classified in the Household Appliances Sub-Industry.",
+        "negative_refine": "Personal home computer manufacturers and household appliances."
+    },
+    {
+        "code": "25201020",
+        "label": "Home Furnishings",
+        "definition": "Manufacturers of soft home furnishings or furniture, including upholstery, carpets and wall-coverings.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25201030",
+        "label": "Homebuilding",
+        "definition": "Residential construction companies. Includes manufacturers of prefabricated houses and semi-fixed manufactured homes.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25201040",
+        "label": "Household Appliances",
+        "definition": "Manufacturers of electric household appliances and related products.  Includes manufacturers of power and hand tools, including garden improvement tools.",
+        "negative": "Excludes TVs and other audio and video products classified in the Consumer Electronics Sub-Industry and personal computers classified in the Technology Hardware, Storage & Peripherals Sub-Industry.",
+        "negative_refine": "TVs and other audio and video products, personal computers."
+    },
+    {
+        "code": "25201050",
+        "label": "Housewares & Specialties",
+        "definition": "Manufacturers of durable household products, including cutlery, cookware, glassware, crystal, silverware, utensils, kitchenware and consumer specialties not classified elsewhere.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25202010",
+        "label": "Leisure Products",
+        "definition": "Manufacturers of leisure products and equipment including sports equipment, bicycles and toys.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25203010",
+        "label": "Apparel, Accessories & Luxury Goods",
+        "definition": "Manufacturers of apparel, accessories & luxury goods. Includes companies primarily producing designer handbags, wallets, luggage, jewelry and watches.",
+        "negative": "Excludes shoes classified in the Footwear Sub-Industry.",
+        "negative_refine": "Shoes and footwear."
+    },
+    {
+        "code": "25203020",
+        "label": "Footwear",
+        "definition": "Manufacturers of footwear. Includes sport and leather shoes.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25203030",
+        "label": "Textiles",
+        "definition": "Manufacturers of textile and related products not classified in the Apparel, Accessories & Luxury Goods, Footwear or Home Furnishings Sub-Industries.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25301010",
+        "label": "Casinos & Gaming",
+        "definition": "Owners and operators of casinos and gaming facilities. Includes companies providing lottery and betting services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25301020",
+        "label": "Hotels, Resorts & Cruise Lines",
+        "definition": "Owners and operators of hotels, resorts and cruise-ships. Includes travel agencies, tour operators and related services not classified elsewhere.",
+        "negative": "Excludes casino-hotels classified in the Casinos & Gaming Sub-Industry.",
+        "negative_refine": "Casino-hotels, casinos, gaming."
+    },
+    {
+        "code": "25301030",
+        "label": "Leisure Facilities",
+        "definition": "Owners and operators of leisure facilities, including sport and fitness centers, stadiums, golf courses and amusement parks not classified in the Movies & Entertainment Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25301040",
+        "label": "Restaurants",
+        "definition": "Owners and operators of restaurants, bars, pubs, fast-food or take-out facilities. Includes companies that provide food catering services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25302010",
+        "label": "Education Services",
+        "definition": "Companies providing educational services, either on-line or through conventional teaching methods. Includes, private universities, correspondence teaching, providers of educational seminars, educational materials and technical education.",
+        "negative": "Excludes companies providing employee education programs classified in the Human Resources & Employment Services Sub-Industry.",
+        "negative_refine": "Employee programs and human resources."
+    },
+    {
+        "code": "25302020",
+        "label": "Specialized Consumer Services",
+        "definition": "Companies providing consumer services not classified elsewhere.  Includes residential services, home security, legal services, personal services, renovation & interior design services, consumer auctions and wedding & funeral services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25501010",
+        "label": "Distributors",
+        "definition": "Distributors and wholesalers of general merchandise not classified elsewhere. Includes vehicle distributors.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25503030",
+        "label": "Broadline Retail",
+        "definition": "Retailers offering a wide range of consumer discretionary merchandise. This Sub-Industry includes general and discount merchandise retailers, department stores and on-line retailers and marketplaces selling mostly consumer discretionary merchandise.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504010",
+        "label": "Apparel Retail",
+        "definition": "Retailers specialized mainly in apparel and accessories.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504020",
+        "label": "Computer & Electronics Retail",
+        "definition": "Owners and operators of consumer electronics, computers, video and related products retail stores.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504030",
+        "label": "Home Improvement Retail",
+        "definition": "Owners and operators of home and garden improvement retail stores. Includes stores offering building materials and supplies.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504040",
+        "label": "Other Specialty Retail",
+        "definition": "Owners and operators of specialty retail stores not classified elsewhere. Includes jewelry stores, toy stores, office supply stores, health & vision care stores, and book & entertainment stores.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504050",
+        "label": "Automotive Retail",
+        "definition": "Owners and operators of stores specializing in automotive retail.  Includes auto dealers, gas stations, and retailers of auto accessories, motorcycles & parts, automotive glass, and automotive equipment & parts.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "25504060",
+        "label": "Homefurnishing Retail",
+        "definition": "Owners and operators of furniture and home furnishings retail stores. Includes residential furniture, homefurnishings, housewares, and interior design.",
+        "negative": "Excludes home and garden improvement stores, classified in the Home Improvement Retail Sub-Industry.",
+        "negative_refine": "Home and garden improvement."
+    },
+    {
+        "code": "30101010",
+        "label": "Drug Retail",
+        "definition": "Owners and operators of primarily drug retail stores and pharmacies.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30101020",
+        "label": "Food Distributors",
+        "definition": "Distributors of food products to other companies and not directly to the consumer.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30101030",
+        "label": "Food Retail",
+        "definition": "Owners and operators of primarily food retail stores.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30101040",
+        "label": "Consumer Staples Merchandise Retail (New Name & Definition Update)",
+        "definition": "Retailers offering a wide range of consumer staples merchandise such as food, household, and personal care products. This Sub-Industry includes hypermarkets, super centers and other consumer staples retailers such as discount retail spaces and on-line marketplaces selling mostly consumer staples goods.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30201010",
+        "label": "Brewers",
+        "definition": "Producers of beer and malt liquors. Includes breweries not classified in the Restaurants Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30201020",
+        "label": "Distillers & Vintners",
+        "definition": "Distillers, vintners and producers of alcoholic beverages not classified in the Brewers Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30201030",
+        "label": "Soft Drinks & Non-alcoholic Beverages",
+        "definition": "Producers of non-alcoholic beverages including mineral waters.",
+        "negative": "Excludes producers of milk classified in the Packaged Foods & Meats Sub-Industry and producers of alcoholic beverages.",
+        "negative_refine": "Milk, packaged foods and alcoholic."
+    },
+    {
+        "code": "30202010",
+        "label": "Agricultural Products & Services",
+        "definition": "Producers of agricultural products. Includes crop growers, owners of plantations and companies that produce and process foods but do not package and market them.",
+        "negative": "Excludes companies classified in the Forest Products Sub-Industry and those that package and market the food products classified in the Packaged Foods & Meats Sub-Industry.",
+        "negative_refine": "Woods, forest, package or market the foods."
+    },
+    {
+        "code": "30202030",
+        "label": "Packaged Foods & Meats",
+        "definition": "Producers of packaged foods including dairy products, fruit juices, meats, poultry, fish and pet foods.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30203010",
+        "label": "Tobacco",
+        "definition": "Manufacturers of cigarettes and other tobacco products.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30301010",
+        "label": "Household Products",
+        "definition": "Producers of non-durable household products, including detergents, soaps, diapers and other tissue and household paper products not classified in the Paper Products Sub-Industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "30302010",
+        "label": "Personal Care Products",
+        "definition": "Manufacturers of personal and beauty care products, including cosmetics and perfumes.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35101010",
+        "label": "Health Care Equipment",
+        "definition": "Manufacturers of health care equipment and devices. Includes medical instruments, drug delivery systems, cardiovascular & orthopedic devices, and diagnostic equipment.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35101020",
+        "label": "Health Care Supplies",
+        "definition": "Manufacturers of health care supplies and medical products not classified elsewhere. Includes eye care products, hospital supplies, and safety needle & syringe devices.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35102010",
+        "label": "Health Care Distributors",
+        "definition": "Distributors and wholesalers of health care products not classified elsewhere.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35102015",
+        "label": "Health Care Services",
+        "definition": "Providers of patient health care services not classified elsewhere. Includes dialysis centers, lab testing services, and pharmacy management services. Also includes companies providing business support services to health care providers, such as clerical support services, collection agency services, staffing services and outsourced sales & marketing services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35102020",
+        "label": "Health Care Facilities",
+        "definition": "Owners and operators of health care facilities, including hospitals, nursing homes, rehabilitation centers and animal hospitals.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35102030",
+        "label": "Managed Health Care",
+        "definition": "Owners and operators of Health Maintenance Organizations (HMOs) and other managed plans.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35103010",
+        "label": "Health Care Technology",
+        "definition": "Companies providing information technology services primarily to health care providers.  Includes companies providing application, systems and/or data processing software, internet-based tools, and IT consulting services to doctors, hospitals or businesses operating primarily in the Health Care Sector.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35201010",
+        "label": "Biotechnology",
+        "definition": "Companies primarily engaged in the research, development, manufacturing and/or marketing of products based on genetic analysis and genetic engineering.  Includes companies specializing in protein-based therapeutics to treat human diseases.",
+        "negative": "Excludes companies manufacturing products using biotechnology but without a health care application.",
+        "negative_refine": "Tobacco, junk food, alcohol, polluting, arms, ammunition fictional and entertainment, and sedentary entertainment."
+    },
+    {
+        "code": "35202010",
+        "label": "Pharmaceuticals",
+        "definition": "Companies engaged in the research, development or production of pharmaceuticals. Includes veterinary drugs.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "35203010",
+        "label": "Life Sciences Tools & Services",
+        "definition": "Companies enabling the drug discovery, development and production continuum by providing analytical tools, instruments, consumables & supplies, clinical trial services and contract research services. Includes firms primarily servicing the pharmaceutical and biotechnology industries.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40101010",
+        "label": "Diversified Banks",
+        "definition": "Large, geographically diverse banks with a national footprint whose revenues are derived primarily from conventional banking operations, have significant business activity in retail banking and small and medium corporate lending, and provide a diverse range of financial services.",
+        "negative": "Excludes banks and investment banks.",
+        "negative_refine": "Investment."
+    },
+    {
+        "code": "40101015",
+        "label": "Regional Banks (Definition Update)",
+        "definition": "Commercial banks, savings banks and thrifts whose business are derived primarily from conventional banking operations such as retail banking, corporate lending and originating various residential and commercial mortgage loans funded mainly through deposits. Regional banks tend to operate in limited geographic regions.",
+        "negative": "Excludes companies classified in the Diversified Banks and Commercial & Residential Mortgage Finance Sub-Industries. Also excludes investment banks classified in the Investment Banking & Brokerage Sub-Industry.",
+        "negative_refine": "Mortgage and investment."
+    },
+    {
+        "code": "40201020",
+        "label": "Diversified Financial Services",
+        "definition": "Providers of a diverse range of financial services and/or with some interest in a wide range of financial services including banking, insurance and capital markets, but with no dominant business line.",
+        "negative": "Excludes companies classified in the Regional Banks and Diversified Banks Sub-Industries.",
+        "negative_refine": "Regional."
+    },
+    {
+        "code": "40201030",
+        "label": "Multi-Sector Holdings",
+        "definition": "A company with significantly diversified holdings across three or more sectors, none of which contributes a majority of profit and/or sales. Stakes held are predominantly of a non-controlling nature. Includes diversified financial companies where stakes held are of a controlling nature.",
+        "negative": "Excludes other diversified companies classified in the Industrials Conglomerates Sub-Industry.",
+        "negative_refine": "Industrials conglomerates."
+    },
+    {
+        "code": "40201040",
+        "label": "Specialized Finance",
+        "definition": "Providers of specialized financial services not classified elsewhere. Companies in this Sub-Industry derive a majority of revenue from one specialized line of business. Includes, but not limited to, commercial financing companies, central banks,  leasing institutions, factoring services, and specialty boutiques.",
+        "negative": "Excludes companies classified in the Financial Exchanges & Data Sub-Industry.",
+        "negative_refine": "Financial exchanges and data."
+    },
+    {
+        "code": "40201050",
+        "label": "Commercial & Residential Mortgage Finance",
+        "definition": "Financial companies providing commercial and residential mortgage financing and related mortgage services. This Sub-Industry includes non-deposit funded mortgage lending institutions, building societies, companies providing real estate financing products, loan servicing, mortgage broker services, and mortgage insurance.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40201060",
+        "label": "Transaction & Payment Processing Services",
+        "definition": "Providers of transaction & payment processing services and related payment services including digital/mobile payment processors, payment service providers & gateways, and digital wallet providers.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40202010",
+        "label": "Consumer Finance",
+        "definition": "Providers of consumer finance services, including personal credit, credit cards, lease financing, travel-related money services and pawn shops.",
+        "negative": "Excludes mortgage lenders classified in the Commercial & Residential Mortgage Finance Sub-Industry.",
+        "negative_refine": "Mortgage lenders, commercial and residential mortgage."
+    },
+    {
+        "code": "40203010",
+        "label": "Asset Management & Custody Banks",
+        "definition": "Financial institutions primarily engaged in investment management and/or related custody and securities fee-based services. Includes companies operating mutual funds, closed-end funds and unit investment trusts.",
+        "negative": "Excludes banks and other financial institutions primarily involved in commercial lending, investment banking, brokerage and other specialized financial activities.",
+        "negative_refine": "Banks, commercial lending, and brokerage."
+    },
+    {
+        "code": "40203020",
+        "label": "Investment Banking & Brokerage",
+        "definition": "Financial institutions primarily engaged in investment banking & brokerage services, including equity and debt underwriting, mergers and acquisitions, securities lending and advisory services.",
+        "negative": "Excludes banks and other financial institutions primarily involved in commercial lending, asset management and specialized financial activities.",
+        "negative_refine": "Commercial and asset management."
+    },
+    {
+        "code": "40203030",
+        "label": "Diversified Capital Markets",
+        "definition": "Financial institutions primarily engaged in diversified capital markets activities, including a significant presence in at least two of the following area: large/major corporate lending, investment banking, brokerage and asset management.",
+        "negative": "Excludes less diversified companies classified in the Asset Management & Custody Banks or Investment Banking & Brokerage Sub-Industries. Also excludes companies classified in the Banks or Insurance industry groups or the Consumer Finance Sub-Industry.",
+        "negative_refine": "Asset management, custody banks, investment banking, brokerage banks, insurance industry groups and consumer finance."
+    },
+    {
+        "code": "40203040",
+        "label": "Financial Exchanges & Data",
+        "definition": "Financial exchanges for securities, commodities, derivatives and other financial instruments, and providers of financial decision support tools and products including ratings agencies.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40204010",
+        "label": "Mortgage REITs",
+        "definition": "Companies or Trusts that service, originate, purchase and/or securitize residential and/or commercial mortgage loans.  Includes trusts that invest in mortgage-backed securities and other mortgage related assets.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40301010",
+        "label": "Insurance Brokers",
+        "definition": "Insurance and reinsurance brokerage firms.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40301020",
+        "label": "Life & Health Insurance",
+        "definition": "Companies providing primarily life, disability, indemnity or supplemental health insurance.",
+        "negative": "Excludes managed care companies classified in the Managed Health Care Sub-Industry.",
+        "negative_refine": "Managed, management"
+    },
+    {
+        "code": "40301030",
+        "label": "Multi-line Insurance",
+        "definition": "Insurance companies with diversified interests in life, health and property and casualty insurance.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40301040",
+        "label": "Property & Casualty Insurance",
+        "definition": "Companies providing primarily property and casualty insurance.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "40301050",
+        "label": "Reinsurance",
+        "definition": "Companies providing primarily reinsurance.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45102010",
+        "label": "IT Consulting & Other Services",
+        "definition": "Providers of information technology and systems integration services not classified in the Data Processing & Outsourced Services or Internet Software & Services Sub-Industries. Includes information technology consulting and information management services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45102030",
+        "label": "Internet Services & Infrastructure",
+        "definition": "Companies providing services and infrastructure for the internet industry including data centers and cloud networking and storage infrastructure. Also includes companies providing web hosting services.",
+        "negative": "Excludes companies classified in the Software Industry.",
+        "negative_refine": "Software."
+    },
+    {
+        "code": "45103010",
+        "label": "Application Software",
+        "definition": "Companies engaged in developing and producing software designed for specialized applications for the business or consumer market. Includes enterprise and technical software, as well as cloud-based software.",
+        "negative": "Excludes companies classified in the Interactive Home Entertainment Sub-Industry. Also excludes companies producing systems or database management software classified in the Systems Software Sub-Industry.",
+        "negative_refine": "Interactivehome entertainment, database management."
+    },
+    {
+        "code": "45103020",
+        "label": "Systems Software",
+        "definition": "Companies engaged in developing and producing systems and database management software.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45201020",
+        "label": "Communications Equipment",
+        "definition": "Manufacturers of communication equipment and products, including LANs, WANs, routers, telephones, switchboards and exchanges.",
+        "negative": "Excludes cellular phone manufacturers classified in the Technology Hardware, Storage & Peripherals Sub-Industry.",
+        "negative_refine": "Cellular phone manufacturers."
+    },
+    {
+        "code": "45202030",
+        "label": "Technology Hardware, Storage & Peripherals",
+        "definition": "Manufacturers of cellular phones, personal computers, servers, electronic computer components and peripherals. Includes data storage components, motherboards, audio and video cards, monitors, keyboards, printers, and other peripherals.",
+        "negative": "Excludes semiconductors classified in the Semiconductors Sub-Industry.",
+        "negative_refine": "Semiconductors."
+    },
+    {
+        "code": "45203010",
+        "label": "Electronic Equipment & Instruments",
+        "definition": "Manufacturers of electronic equipment and instruments including analytical, electronic test and measurement instruments, scanner/barcode products, lasers, display screens, point-of-sales machines, and security system equipment.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45203015",
+        "label": "Electronic Components",
+        "definition": "Manufacturers of electronic components. Includes electronic components, connection devices, electron tubes, electronic capacitors and resistors, electronic coil, printed circuit board, transformer and other inductors, signal processing technology/components.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45203020",
+        "label": "Electronic Manufacturing Services",
+        "definition": "Producers of electronic equipment mainly for the OEM (Original Equipment Manufacturers) markets.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45203030",
+        "label": "Technology Distributors",
+        "definition": "Distributors of technology hardware and equipment. Includes distributors of communications equipment, computers & peripherals, semiconductors, and electronic equipment and components.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45301010",
+        "label": "Semiconductor Materials & Equipment",
+        "definition": "Manufacturers of semiconductor equipment, including manufacturers of the raw material and equipment used in the solar power industry.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "45301020",
+        "label": "Semiconductors",
+        "definition": "Manufacturers of semiconductors and related products, including manufacturers of solar modules and cells.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50101010",
+        "label": "Alternative Carriers",
+        "definition": "Providers of communications and high-density data transmission services primarily through a high bandwidth/fiber-optic cable network.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50101020",
+        "label": "Integrated Telecommunication Services",
+        "definition": "Operators of primarily fixed-line telecommunications networks and companies providing both wireless and fixed-line telecommunications services not classified elsewhere. Also includes internet service providers offering internet access to end users.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50102010",
+        "label": "Wireless Telecommunication Services",
+        "definition": "Providers of primarily cellular or wireless telecommunication services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50201010",
+        "label": "Advertising",
+        "definition": "Companies providing advertising, marketing or public relations services.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50201020",
+        "label": "Broadcasting",
+        "definition": "Owners and operators of television or radio broadcasting systems, including programming. Includes radio and television broadcasting, radio networks, and radio stations.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50201030",
+        "label": "Cable & Satellite",
+        "definition": "Providers of cable or satellite television services. Includes cable networks and program distribution.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50201040",
+        "label": "Publishing",
+        "definition": "Publishers of newspapers, magazines and books in print or electronic formats.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50202010",
+        "label": "Movies & Entertainment",
+        "definition": "Companies that engage in producing and selling entertainment products and services, including companies engaged in the production, distribution and screening of movies and television shows, producers and distributors of music, entertainment theaters and sports teams. Also includes companies offering and/or producing entertainment content streamed online.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "50202020",
+        "label": "Interactive Home Entertainment",
+        "definition": "Producers of interactive gaming products, including mobile gaming applications. Also includes educational software used primarily in the home.",
+        "negative": "Excludes online gambling companies classified in the Casinos & Gaming Sub-Industry.",
+        "negative_refine": "Online gambling."
+    },
+    {
+        "code": "50203010",
+        "label": "Interactive Media & Services",
+        "definition": "Companies engaging in content and information creation or distribution through proprietary platforms, where revenues are derived primarily through pay-per-click advertisements. Includes search engines, social media and networking platforms, online classifieds, and online review companies.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "55101010",
+        "label": "Electric Utilities",
+        "definition": "Companies that produce or distribute electricity. Includes both nuclear and non-nuclear facilities.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "55102010",
+        "label": "Gas Utilities",
+        "definition": "Companies whose main charter is to distribute and transmit natural and manufactured gas.",
+        "negative": "Excludes companies primarily involved in gas exploration or production classified in the Oil & Gas Exploration & Production Sub-Industry. Also excludes companies engaged in the storage and/or transportation of oil, gas, and/or refined products classified in the Oil & Gas Storage & Transportation Sub-Industry.",
+        "negative_refine": "Exploration, production, storage, transportation."
+    },
+    {
+        "code": "55103010",
+        "label": "Multi-Utilities",
+        "definition": "Utility companies with significantly diversified activities in addition to core Electric Utility, Gas Utility and/or Water Utility operations.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "55104010",
+        "label": "Water Utilities",
+        "definition": "Companies that purchase and redistribute water to the end-consumer. Includes large-scale water treatment systems.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "55105010",
+        "label": "Independent Power Producers & Energy Traders",
+        "definition": "Companies that operate as Independent Power Producers (IPPs), Gas & Power Marketing & Trading Specialists and/or Integrated Energy Merchants.",
+        "negative": "Excludes producers of electricity using renewable sources, such as solar power, hydropower, and wind power. Also excludes electric transmission companies and utility distribution companies classified in the Electric Utilities Sub-Industry.",
+        "negative_refine": "Renewable sources, such as solar power, hydropower, and wind power. Transmission and utility distribution."
+    },
+    {
+        "code": "55105020",
+        "label": "Renewable Electricity",
+        "definition": "Companies that engage in the generation and distribution of electricity using renewable sources, including, but not limited to, companies that produce electricity using biomass, geothermal energy, solar energy, hydropower, and wind power.",
+        "negative": "Excludes companies manufacturing capital equipment, such as manufacturers of solar power systems, installers of photovoltaic cells, and companies involved in the provision of technology, components, and services mainly to this market.",
+        "negative_refine": "Manufacturers of solar power systems, installers of photovoltaic cells."
+    },
+    {
+        "code": "60101010",
+        "label": "Diversified REITs",
+        "definition": "A company or Trust with significantly diversified operations across two or more property types.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60102510",
+        "label": "Industrial REITs (New Code)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of industrial properties. Includes companies operating industrial warehouses and distribution properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60103010",
+        "label": "Hotel & Resort REITs (New Code)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of hotel and resort properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60104010",
+        "label": "Office REITs (New Code)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of office properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60105010",
+        "label": "Health Care REITs (New Code)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of properties serving the health care industry, including hospitals, nursing homes, and assisted living properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60106010",
+        "label": "Multi-Family Residential REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of apartments and other multi-family housing including student housing.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60106020",
+        "label": "Single-Family Residential REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of single-family residential housing including manufactured homes.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60107010",
+        "label": "Retail REITs (New Code)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of shopping malls, outlet malls, neighborhood and community shopping centers.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60108010",
+        "label": "Other Specialized REITs (New Name/ New Code/Definition Update)",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of properties not classified elsewhere. This Sub-Industry includes REITs that manage and own properties such as natural gas and crude oil pipelines, gas stations, fiber optic cables, prisons, automobile parking, and automobile dealerships.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60108020",
+        "label": "Self-Storage REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of self storage properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60108030",
+        "label": "Telecom Tower REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of telecom towers and related structures that support wireless telecommunications.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60108040",
+        "label": "Timber REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of timberland and timber-related properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60108050",
+        "label": "Data Center REITs",
+        "definition": "Companies or Trusts engaged in the acquisition, development, ownership, leasing, management and operation of data center properties.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60201010",
+        "label": "Diversified Real Estate Activities (New Code)",
+        "definition": "Companies engaged in a diverse spectrum of real estate activities including real estate development & sales, real estate management, or real estate services, but with no dominant business line.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60201020",
+        "label": "Real Estate Operating Companies (New Code)",
+        "definition": "Companies engaged in operating real estate properties for the purpose of leasing & management.",
+        "negative": "",
+        "negative_refine": ""
+    },
+    {
+        "code": "60201030",
+        "label": "Real Estate Development (New Code)",
+        "definition": "Companies that develop real estate and sell the properties after development.",
+        "negative": "Excludes companies classified in the Homebuilding Sub-Industry.",
+        "negative_refine": "Home and homebuilding."
+    },
+    {
+        "code": "60201040",
+        "label": "Real Estate Services (New Code)",
+        "definition": "Real estate service providers such as real estate agents, brokers & real estate appraisers.",
+        "negative": "",
+        "negative_refine": ""
+    }
+]

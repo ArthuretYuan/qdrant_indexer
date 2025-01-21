@@ -1,0 +1,86 @@
+{"code": "101010", "name": "Energy Equipment and Services"}
+{"code": "101020", "name": "Oil, Gas and Consumable Fuels"}
+{"code": "151010", "name": "Chemicals"}
+{"code": "151020", "name": "Construction Materials"}
+{"code": "151030", "name": "Containers and Packaging"}
+{"code": "151040", "name": "Metals and Mining"}
+{"code": "151050", "name": "Paper and Forest Products"}
+{"code": "201010", "name": "Aerospace and Defense"}
+{"code": "201020", "name": "Building Products"}
+{"code": "201030", "name": "Construction and Engineering"}
+{"code": "201040", "name": "Electrical Equipment"}
+{"code": "201050", "name": "Industrial Conglomerates"}
+{"code": "201060", "name": "Machinery"}
+{"code": "201070", "name": "Trading Companies and Distributors"}
+{"code": "202010", "name": "Commercial Services and Supplies"}
+{"code": "202020", "name": "Professional Services"}
+{"code": "203010", "name": "Air Freight and Logistics"}
+{"code": "203020", "name": "Passenger Airlines"}
+{"code": "203020", "name": "Airlines"}
+{"code": "203030", "name": "Marine Transportation"}
+{"code": "203030", "name": "Marine"}
+{"code": "203040", "name": "Ground Transportation"}
+{"code": "203040", "name": "Road and Rail"}
+{"code": "203050", "name": "Transportation Infrastructure"}
+{"code": "251010", "name": "Automobile Components"}
+{"code": "251010", "name": "Auto Components"}
+{"code": "251020", "name": "Automobiles"}
+{"code": "252010", "name": "Household Durables"}
+{"code": "252020", "name": "Leisure Products"}
+{"code": "252030", "name": "Textiles, Apparel and Luxury Goods"}
+{"code": "253010", "name": "Hotels, Restaurants and Leisure"}
+{"code": "253020", "name": "Diversified Consumer Services"}
+{"code": "255010", "name": "Distributors"}
+{"code": "255020", "name": "Internet and Direct Marketing Retail"}
+{"code": "255030", "name": "Broadline Retail"}
+{"code": "255030", "name": "Multiline Retail"}
+{"code": "255040", "name": "Specialty Retail"}
+{"code": "301010", "name": "Consumer Staples Distribution & Retail"}
+{"code": "301010", "name": "Food and Staples Retailing"}
+{"code": "302010", "name": "Beverages"}
+{"code": "302020", "name": "Food Products"}
+{"code": "302030", "name": "Tobacco"}
+{"code": "303010", "name": "Household Products"}
+{"code": "303020", "name": "Personal Care Products"}
+{"code": "303020", "name": "Personal Products"}
+{"code": "351010", "name": "Healthcare Equipment and Supplies"}
+{"code": "351020", "name": "Healthcare Providers and Services"}
+{"code": "351030", "name": "Health Care Technology"}
+{"code": "352010", "name": "Biotechnology"}
+{"code": "352020", "name": "Pharmaceuticals"}
+{"code": "352030", "name": "Life Sciences Tools and Services"}
+{"code": "401010", "name": "Banks"}
+{"code": "401020", "name": "Thrifts and Mortgage Finance"}
+{"code": "402010", "name": "Diversified Financial Services"}
+{"code": "402010", "name": "Financial Services"}
+{"code": "402020", "name": "Consumer Finance"}
+{"code": "402030", "name": "Capital Markets"}
+{"code": "402040", "name": "Mortgage Real Estate Investment Trusts (REITs)"}
+{"code": "403010", "name": "Insurance"}
+{"code": "451020", "name": "IT Services"}
+{"code": "451030", "name": "Software"}
+{"code": "452010", "name": "Communications Equipment"}
+{"code": "452020", "name": "Technology Hardware, Storage and Peripherals"}
+{"code": "452030", "name": "Electronic Equipment, Instruments and Components"}
+{"code": "453010", "name": "Semiconductors and Semiconductor Equipment"}
+{"code": "501010", "name": "Diversified Telecommunication Services"}
+{"code": "501020", "name": "Wireless Telecommunication Services"}
+{"code": "502010", "name": "Media"}
+{"code": "502020", "name": "Entertainment"}
+{"code": "502030", "name": "Interactive Media and Services"}
+{"code": "551010", "name": "Electric Utilities"}
+{"code": "551020", "name": "Gas Utilities"}
+{"code": "551030", "name": "Multi-Utilities"}
+{"code": "551040", "name": "Water Utilities"}
+{"code": "551050", "name": "Independent Power and Renewable Electricity Producers"}
+{"code": "601010", "name": "Diversified REITs"}
+{"code": "601010", "name": "Equity Real Estate Investment Trusts (REITs)"}
+{"code": "601025", "name": "Industrial REITs"}
+{"code": "601030", "name": "Hotel & Resort REITs"}
+{"code": "601040", "name": "Office REITs"}
+{"code": "601050", "name": "Health Care REITs"}
+{"code": "601060", "name": "Residential REITs"}
+{"code": "601070", "name": "Retail REITs"}
+{"code": "601080", "name": "Specialized REITs"}
+{"code": "602010", "name": "Real Estate Management & Development"}
+{"code": "602010", "name": "Real Estate Management and Development"}
